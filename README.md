@@ -6,7 +6,7 @@ This lab aim to show how to assemble computer hardware based on PC Assemble Work
 
 
 # Tittle: PC Assemble Workshop
-# Organizerr : DR. HAZA NUZLY BIN ABDUL HAMED (Lecture UTM)
+# Organizerr : DR. HAZA NUZLY BIN ABDUL HAMED (Lecturer UTM)
 # Participate: 20 
 # Location: PSDC Penang
 
